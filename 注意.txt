@@ -41,7 +41,6 @@
       
        服务器：10.10.103.120  域名：doc.whchem.com 服务端口：8080
  
-       管理账号：doc/doc
  
        请将已有BPM及EAD相关的markdown在线文档上传到 tomcat的 ROOT目录下，该目录下已经规划了bpm 及 ead的目录（可以更改或继续新建子目录）
        
